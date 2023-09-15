@@ -46,7 +46,7 @@ while not exit:
     begin = input("Type 'yes' or 'no'  \n")
     if begin == "no":
         exit=True
-        print("exit ....")
+        print("exit .....")
     
 
 
